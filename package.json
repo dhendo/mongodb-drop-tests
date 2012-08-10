@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-drop-tests",
+  "description": "mongodb-drop-tests",
+  "version": "0.1.0",
+  "maintainers": [
+    {
+      "name": "David Henderson",
+      "email": "",
+      "web": "https://github.com/dhendo/"
+    }
+  ],
+  "dependencies": {
+    "mongodb": ">= 1.1.2",
+    "async": ">= 0.1.22"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:dhendo/mongodb-drop-tests.git"
+    }
+  ]
+}
